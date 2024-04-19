@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# ScreenScore: Analyzing Emotions in Movie Reviews
 # Brief Introduction
 
 Objective of this project was to train a classifier which can take a text as input and give output user sentiment whether it is positive or negative
