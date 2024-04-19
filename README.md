@@ -1,6 +1,6 @@
 # Brief Introduction
 
-Objective of this project was to train a classifier which can take a text as input and give output user sentiment whether it is positive or negative
+Objective of this project was to train a classifier which can take a text as input and give output user sentiment whether it is positive or negative.
 
 This project involved a labelled movie review dataset used to train the classifier.  All of the text in dataset is cleaned before training is done.
 
